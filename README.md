@@ -5,7 +5,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-alyeldinshahin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-kaid-moe1996/)](https://www.linkedin.com/in/alyeldin-shahin/)   [![Gmail Badge](https://img.shields.io/badge/-mk.mohamedkaid@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mk.mohamedkaid@gmail.com)](mailto:mk.mohamedkaid@gmail.com)
 
   
-<img width = "35%" align="right" alt="PIC" height="300px" src="<iframe src="https://giphy.com/embed/scZPhLqaVOM1qG4lT9" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9">via GIPHY</a></p>" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://media2.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=ecf05e473dpj5g6pub88i7qbkyryr19blybgxlprx1m66ld6&rid=giphy.gif&ct=s" />
   
   
   
